@@ -1,4 +1,5 @@
-﻿using System;
+﻿#pragma warning disable S1481
+using System;
 
 namespace CountingArrayElements
 {
