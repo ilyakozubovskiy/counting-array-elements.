@@ -1,4 +1,4 @@
-﻿#pragma warning disable S1481
+﻿#pragma warning disable S1854
 using System;
 
 namespace CountingArrayElements
