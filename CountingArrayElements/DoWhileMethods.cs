@@ -19,7 +19,7 @@ namespace CountingArrayElements
             int count = 0, index = 0;
             do
             {
-                if (arrayToSearch[index] == false)
+                if (!arrayToSearch[index])
                 {
                     count++;
                 }
